@@ -1,0 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@0,300..700;1,300..700&family=Griffy&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Slabo+27px&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
